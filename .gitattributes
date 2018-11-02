@@ -1,0 +1,3 @@
+ linguist-language=C/C++
+ *.css linguist-language=C/C++
+ *.html linguist-language=C/C++
