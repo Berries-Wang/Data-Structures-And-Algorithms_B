@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/wei/WorkSpace/CProgram/clionProjects/DSA2/LeetCode/18. 4Sum/Solution2.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+set
+-
+
