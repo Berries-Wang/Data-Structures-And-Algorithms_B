@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+/*
+   最优起点与最优前缀
+ */
 int maxSubArray(int* nums, int numsSize)
 {
 	int thisSum = 0;
